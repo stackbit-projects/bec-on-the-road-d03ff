@@ -65,7 +65,7 @@
                 "label": "BYAC",
                 "url": "https://www.buymeacoffee.com/rhblitst",
                 "style": "icon",
-                "icon_class": "dev",
+                "icon_class": "byac",
                 "new_window": true
             }
         ]
