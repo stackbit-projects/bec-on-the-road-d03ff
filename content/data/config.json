@@ -62,7 +62,7 @@
                 "new_window": true
             },
             {
-                "label": "DEV",
+                "label": "BYAC",
                 "url": "https://dev.to/",
                 "style": "icon",
                 "icon_class": "dev",
