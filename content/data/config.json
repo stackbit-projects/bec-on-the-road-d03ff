@@ -70,8 +70,6 @@
             }
         ]
     },
-    "footer": {
-        "content": "&copy; "
-    },
+    "footer": {},
     "domain": "https://bec-on-the-road-d03ff.netlify.app"
 }
